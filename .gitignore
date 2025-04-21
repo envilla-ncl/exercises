@@ -1,0 +1,5 @@
+/target/
+/test-output/
+/.allure/
+/.mvn/protobuf-binaries/
+/.DS_Store
